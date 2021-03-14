@@ -37,12 +37,12 @@ It's a list of things that allow me to be employed as a Junior Developer!
 5. Views and Layouts Introducing Android UI System
 
  View Hierarhy
- LayoutInflater
+ ~~LayoutInflater~~
  ~~Popular Layouts (FrameLayout, LinearLayout, few words about RelativeLayout)~~
  ~~Views (TextView, Button, ImageView)~~
  View Lifecycle, Custom Views
  Touch Events
- ButterKnife (for home investigation)
+ ~~ButterKnife~~
  WebView
  Drawer, ViewPager
  ActionBar, Toolbar, Options
@@ -75,16 +75,17 @@ It's a list of things that allow me to be employed as a Junior Developer!
 10. Persistence Types of storage (Internal, External)
 
  SQLite
- Shared Preferences
+ ~~Shared Preferences~~
  Content Providers (FileProviders)
  ORM overview
 
 11. Networking Necessary permissions
 
  Connectivity
- Gson, Moshi
+ ~~Gson~~
+ Moshi
  OkHttp
- Retrofit
+ ~~Retrofit~~
 
 12. Architecture principles General Architecture principles
 
@@ -94,7 +95,7 @@ It's a list of things that allow me to be employed as a Junior Developer!
 
 13. Third party libraries RxJava (overview onNext, onComplete, onError)
 
- Dagger 2
+ ~~Dagger 2~~
  Room
  ~~LiveData~~
  ~~ViewModel~~
@@ -105,14 +106,14 @@ It's a list of things that allow me to be employed as a Junior Developer!
 
 15. Android Testing Unit Test
 
- Mocking frameworks
+ ~~Mocking frameworks~~
  Instrumental Tests
  UI tests (Espresso, Robolectric)
 
 16. Play market and Firebase Play Market overview
 
  Publishing Application
- Firebase overview
+ ~~Firebase overview~~
 
 17. Notifications Notification overview
 
